@@ -6,8 +6,8 @@ For more info, contact the corresponding author [Johannes De Smedt](mailto:jdesm
 
 ## Parameters
 Note that there are two parameters to look out for:
-* The minimum number of visits per user/customer (min_vis)
-* The cutoff or number of time steps per user (which pads or shortens user session sequences accordingly)
+* The minimum number of visits/sessions per user/customer (min_vis)
+* The cutoff or number of time steps (visits/sessions) per user (which pads or shortens user session sequences accordingly)
 
 ## Files
 * [read_ctr_data.py](read_ctr_data.py) contains code to pre-process the [Avazu click-through dataset](https://www.kaggle.com/c/avazu-ctr-prediction/data) which serves as a benchmark.
