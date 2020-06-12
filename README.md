@@ -2,6 +2,8 @@
 
 This repository contains the prototype Keras/TensorFlow implementation for the paper 'A Neural Network Approach For The Propensity  Modelling of Online Conversion Using Webpage Visit Information' by Johannes De Smedt, Ewelina Lacka, Spyro Nita, Andrea Rosales, Hans-Helmut Kohls, and Ross Paton.
 
+For more info, contact the corresponding author [Johannes De Smedt](mailto:jdesmed@ed.ac.uk).
+
 ## Parameters
 Note that there are two parameters to look out for:
 * The minimum number of visits per user/customer (min_vis)
